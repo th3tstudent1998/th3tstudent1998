@@ -6,7 +6,7 @@ I build small, working tools and automations using AI — websites, scripts, and
 🔧 Currently learning: [e.g. "AI agent workflows with n8n", "API integrations"]
 🤖 I use AI (Claude/GPT) as a coding partner — I focus on understanding, testing, and shipping working tools, not just generating code
 💼 Open for freelance: small automations, AI chatbots, simple web tools
-📫 Reach me: [your email] | [WhatsApp/LinkedIn link]
+📫 Reach me: [unknownyup77@gmail.com]
 
 
 
