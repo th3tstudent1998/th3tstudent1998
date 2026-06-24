@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Th3tS1udent 👋
 
-<!--
-**th3tstudent1998/th3tstudent1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, working tools and automations using AI — websites, scripts, and chatbots that solve one real problem well.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Currently learning: [e.g. "AI agent workflows with n8n", "API integrations"]
+🤖 I use AI (Claude/GPT) as a coding partner — I focus on understanding, testing, and shipping working tools, not just generating code
+💼 Open for freelance: small automations, AI chatbots, simple web tools
+📫 Reach me: [your email] | [WhatsApp/LinkedIn link]
+
+
+
+Pinned projects below ⬇️
